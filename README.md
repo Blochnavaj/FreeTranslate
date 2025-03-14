@@ -19,7 +19,7 @@ This is a React + TypeScript project for building a responsive and modern websit
 
 ### 1. Clone the repository:  
 ```bash
-git clone https://github.com/Blochnavaj/your-repo.git
+git clone https://github.com/Blochnavaj/FreeTranslate.git
 ```
 
 ### 2. Install dependencies:  
